@@ -1,47 +1,38 @@
-# hi, i'm belén! ₊˚⊹♡
+# hi, i'm belén! ♡
 
-**computer science student** @ FING · Universidad de la República, Uruguay
+**Computer Science student** at the Faculty of Engineering (FING), Universidad de la República · Uruguay.
 
-interested in cybersecurity, IT infrastructure and the technologies that keep systems and networks running.
+Interested in cybersecurity, IT infrastructure, system administration and computer networks. Focused on developing technical knowledge and practical experience in information security and risk management.
 
-```text
-꒰ა ♡ ໒꒱
-```
+### about me
 
-### ୨୧ about me
+- 🎓 Computer Science student at Universidad de la República
+- 🔐 Interested in cybersecurity, information security and GRC
+- 🖥️ Exploring Linux, system administration and IT infrastructure
+- 🌐 Interested in computer networks and connectivity
+- 📚 Building practical skills through independent projects and continuous learning
 
-- 🎓 pursuing a degree in Computer Science
-- 🔐 interested in cybersecurity, information security & GRC
-- 🖥️ exploring system administration, Linux & IT infrastructure
-- 🌐 interested in computer networks and connectivity
-- 📚 continuously developing my technical and analytical skills
+### areas of interest
 
-### ₊˚⊹ areas of interest
+`Cybersecurity` · `Linux` · `System Administration` · `Networking` · `IT Infrastructure`
 
-`cybersecurity` · `GRC` · `Linux` · `sysadmin` · `networking` · `IT infrastructure`
+### featured project
 
-### ⋆｡°✩ featured project
+[**Uruguay Cybersecurity Gap Assessment**](https://github.com/belenba/uruguay-grc-gap-assessment)
 
-**[Uruguay Cybersecurity Gap Assessment](https://github.com/belenba/uruguay-grc-gap-assessment)**
+A simulated cybersecurity gap assessment of a fictional public organization, based on Uruguay's Agesic Cybersecurity Framework (MCU 5.0), complemented by NIST references.
 
-a simulated cybersecurity gap assessment of a fictional public organization, based on Uruguay's Agesic MCU 5.0 and complemented by NIST frameworks.
+- Security controls assessment
+- Risk identification and analysis
+- Remediation planning
+- Cybersecurity documentation
 
-- security controls assessment
-- risk identification and analysis
-- remediation planning
-- cybersecurity documentation
+### currently learning
 
-```text
-˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆.
-　　　.   　　˚　✭　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.
-```
-
-### 🌱 currently learning
-
-- information security frameworks and risk assessment
+- Information security frameworks and risk assessment
 - Linux administration and system fundamentals
-- networking and IT infrastructure
+- Networking and IT infrastructure
 
 ---
 
-<sub>୨୧ always learning, building and exploring.</sub>
+\<sub>૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა\</sub>
