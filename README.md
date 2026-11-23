@@ -34,5 +34,4 @@ A simulated cybersecurity gap assessment of a fictional public organization, bas
 - Networking and IT infrastructure
 
 ---
-
-\<sub>૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა\</sub>
+<sub>always learning, always curious.</sub>
